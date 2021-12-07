@@ -13,7 +13,7 @@ Skills: PYTHON / DJANGO / HTML / CSS / JS
 - 📫 How to reach me: tayebur687@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Takib Ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tayebur-portfolio.herokuapp.com/portfolio)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TayeburAH)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/takib.ahmed.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tayebur-portfolio.herokuapp.com/portfolio)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayeburAH)](https://github.com/anuraghazra/github-readme-stats)
 
