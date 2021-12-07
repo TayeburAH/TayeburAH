@@ -1,5 +1,5 @@
 ![Python Django Backend developer](https://media-exp1.licdn.com/dms/image/C5603AQGKYQ61LHrTZg/profile-displayphoto-shrink_800_800/0/1638877154887?e=1644451200&v=beta&t=XooTubf21BtzU5yYifL7zPonxQg7FHVyzN6uFycpmZ0)
-### Hi there 👋, Hello, I am Tayebur
+### Hi there 👋, I am Tayebur
 #### Python Django Backend developer
 
 
